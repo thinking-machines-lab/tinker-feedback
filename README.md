@@ -8,5 +8,6 @@ open an issue with as much detail as you can offer.
 
 We will get back to you within 1 business day.
 
+Report abuse at [abuse@thinkingmachines.ai](mailto:abuse@thinkingmachines.ai).
 
 [0]: https://thinkingmachines.ai/tinker/
